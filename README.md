@@ -3,6 +3,7 @@
 # svelte-lexical - columns-layout-branch
 - lexical react playground: https://playground.lexical.dev/
 - original repository: https://github.com/umaranis/svelte-lexical
+- this repository: 
 - commit text and back color: https://github.com/umaranis/svelte-lexical/commit/fc2a631da3814f97c9603f246f75e1b8d7555186
 
 ## setup
@@ -24,4 +25,5 @@
 
 
 ## dev todo
-- 
+- copy Columns Layout Plugin: https://github.com/facebook/lexical/tree/main/packages/lexical-playground/src/plugins/LayoutPlugin
+
